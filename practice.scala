@@ -5,9 +5,15 @@
 
 object practice extends App {
 
-   println("hello")
+   //println("hello")
 
-   for(i<- args){
-      println(i)
-   }
+   var a:String ="hello"
+   val b ="goodbye"
+
+   a=b
+
+   println(a)
+   println(b)
+
+
 }
