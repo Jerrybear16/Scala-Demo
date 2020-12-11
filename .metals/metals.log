@@ -197,3 +197,187 @@ WARNING: Unmatched cancel notification for request id 677
 2020.12.11 15:20:01 INFO  skipping build import with status 'Installed'
 2020.12.11 15:20:48 INFO  skipping build import with status 'Installed'
 2020.12.11 15:21:18 INFO  skipping build import with status 'Installed'
+2020.12.11 15:30:49 INFO  skipping build import with status 'Installed'
+2020.12.11 15:38:11 INFO  skipping build import with status 'Installed'
+2020.12.11 15:38:17 INFO  skipping build import with status 'Installed'
+2020.12.11 15:38:20 INFO  skipping build import with status 'Installed'
+Dec 11, 2020 3:38:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1119
+2020.12.11 15:38:26 INFO  skipping build import with status 'Installed'
+2020.12.11 15:38:28 INFO  skipping build import with status 'Installed'
+2020.12.11 15:38:31 INFO  skipping build import with status 'Installed'
+2020.12.11 15:38:32 INFO  skipping build import with status 'Installed'
+2020.12.11 15:38:57 INFO  skipping build import with status 'Installed'
+2020.12.11 15:39:04 INFO  skipping build import with status 'Installed'
+2020.12.11 15:39:08 INFO  skipping build import with status 'Installed'
+2020.12.11 15:39:16 INFO  skipping build import with status 'Installed'
+2020.12.11 15:39:21 INFO  skipping build import with status 'Installed'
+2020.12.11 15:39:25 INFO  skipping build import with status 'Installed'
+2020.12.11 15:39:27 INFO  skipping build import with status 'Installed'
+2020.12.11 15:39:30 INFO  skipping build import with status 'Installed'
+2020.12.11 15:45:24 INFO  skipping build import with status 'Installed'
+2020.12.11 15:45:28 INFO  skipping build import with status 'Installed'
+2020.12.11 15:45:38 INFO  skipping build import with status 'Installed'
+2020.12.11 15:45:49 INFO  skipping build import with status 'Installed'
+2020.12.11 15:45:55 INFO  skipping build import with status 'Installed'
+2020.12.11 15:46:06 INFO  skipping build import with status 'Installed'
+2020.12.11 15:46:56 INFO  skipping build import with status 'Installed'
+2020.12.11 15:47:02 INFO  skipping build import with status 'Installed'
+2020.12.11 15:47:04 INFO  skipping build import with status 'Installed'
+2020.12.11 15:47:06 INFO  skipping build import with status 'Installed'
+2020.12.11 15:47:07 INFO  skipping build import with status 'Installed'
+2020.12.11 15:47:11 INFO  skipping build import with status 'Installed'
+2020.12.11 15:47:12 INFO  skipping build import with status 'Installed'
+2020.12.11 15:47:39 INFO  skipping build import with status 'Installed'
+2020.12.11 15:47:41 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:18 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:28 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:34 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:39 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:40 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:43 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:44 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:47 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:49 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:50 INFO  skipping build import with status 'Installed'
+2020.12.11 15:50:55 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:02 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:04 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:10 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:15 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:17 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:21 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:24 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:27 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:31 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:38 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:40 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:41 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:42 INFO  skipping build import with status 'Installed'
+2020.12.11 15:51:45 INFO  skipping build import with status 'Installed'
+2020.12.11 15:52:21 INFO  skipping build import with status 'Installed'
+2020.12.11 15:52:24 INFO  skipping build import with status 'Installed'
+2020.12.11 15:54:51 INFO  skipping build import with status 'Installed'
+2020.12.11 15:54:53 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:14 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:18 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:21 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:28 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:30 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:32 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:36 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:41 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:44 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:52 INFO  skipping build import with status 'Installed'
+2020.12.11 16:00:53 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:00 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:08 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:18 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:19 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:25 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:26 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:51 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:52 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:55 INFO  skipping build import with status 'Installed'
+2020.12.11 16:01:59 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:02 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:09 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:19 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:22 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:26 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:30 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:31 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:33 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:38 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:45 INFO  skipping build import with status 'Installed'
+2020.12.11 16:02:50 INFO  skipping build import with status 'Installed'
+2020.12.11 16:03:11 INFO  skipping build import with status 'Installed'
+2020.12.11 16:03:41 INFO  skipping build import with status 'Installed'
+2020.12.11 16:04:15 INFO  skipping build import with status 'Installed'
+2020.12.11 16:04:17 INFO  skipping build import with status 'Installed'
+Unexpected exception when forwarding server stdin ---> client stdout
+java.io.IOException: com.sun.jna.LastErrorException: [104] Connection reset by peer
+	at bloop.sockets.UnixDomainSocket$UnixDomainSocketInputStream.doRead(UnixDomainSocket.java:171)
+	at bloop.sockets.UnixDomainSocket$UnixDomainSocketInputStream.read(UnixDomainSocket.java:156)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:388)
+	at bloop.launcher.bsp.BspBridge.copyContents(BspBridge.scala:289)
+	at bloop.launcher.bsp.BspBridge.forwardStreamContents(BspBridge.scala:275)
+	at bloop.launcher.bsp.BspBridge.$anonfun$wireBspConnectionStreams$2(BspBridge.scala:228)
+	at bloop.bloopgun.core.Shell$$anon$2.run(Shell.scala:155)
+Caused by: com.sun.jna.LastErrorException: [104] Connection reset by peer
+	at bloop.sockets.UnixDomainSocketLibrary.read(Native Method)
+	at bloop.sockets.UnixDomainSocket$UnixDomainSocketInputStream.doRead(UnixDomainSocket.java:169)
+	... 6 more
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+2020.12.11 16:14:48 INFO  Started: Metals version 0.9.7 in workspace '/home/jerry/demo' for client vscode.
+2020.12.11 16:14:51 INFO  time: initialize in 2.86s
+2020.12.11 16:14:55 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher12511576767989515255/bsp.socket'...
+Waiting for the bsp connection to come up...
+2020.12.11 16:14:55 WARN  no build target for: /home/jerry/demo/practice.scala
+2020.12.11 16:14:55 INFO  skipping build import with status 'Installed'
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.5-6-4768184c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/home/jerry/demo/.bloop'...
+[0m[32m[D][0m Loading project from '/home/jerry/demo/.bloop/demo-test.json'
+[0m[32m[D][0m Loading project from '/home/jerry/demo/.bloop/demo.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.12.
+[0m[32m[D][0m   => /home/jerry/.sbt/boot/scala-2.12.12/lib/jansi.jar
+[0m[32m[D][0m   => /home/jerry/.sbt/boot/scala-2.12.12/lib/jline.jar
+[0m[32m[D][0m   => /home/jerry/.sbt/boot/scala-2.12.12/lib/scala-compiler.jar
+[0m[32m[D][0m   => /home/jerry/.sbt/boot/scala-2.12.12/lib/scala-library.jar
+[0m[32m[D][0m   => /home/jerry/.sbt/boot/scala-2.12.12/lib/scala-reflect.jar
+[0m[32m[D][0m   => /home/jerry/.sbt/boot/scala-2.12.12/lib/scala-xml_2.12.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'demo', 'demo-test'
+[0m[32m[D][0m Loading previous analysis for 'demo' from '/home/jerry/demo/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip'.
+[0m[32m[D][0m Loading previous analysis for 'demo-test' from '/home/jerry/demo/target/streams/test/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip'.
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher12511576767989515255/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher12511576767989515255/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.12.11 16:15:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jerry/.cache/metals/bsp.trace.json
+2020.12.11 16:15:04 INFO  no build target: using presentation compiler with only scala-library
+Dec 11, 2020 4:15:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 11, 2020 4:15:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2020.12.11 16:15:04 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher3537483932840589362/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher3537483932840589362/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher3537483932840589362/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.12.11 16:15:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jerry/.cache/metals/bsp.trace.json
+2020.12.11 16:15:04 INFO  time: connected to build server in 9.28s
+2020.12.11 16:15:04 INFO  Connected to Build server v1.4.5-6-4768184c
+2020.12.11 16:15:05 INFO  time: imported build in 0.28s
+2020.12.11 16:15:07 WARN  Could not find java sources in None. Java symbols will not be available.
+2020.12.11 16:15:07 INFO  time: indexed workspace in 2.49s
+2020.12.11 16:15:09 INFO  compiling demo (1 scala source)
+2020.12.11 16:15:18 INFO  compiling demo-test (1 scala source)
+2020.12.11 16:15:18 INFO  time: compiled demo in 9.25s
+2020.12.11 16:15:19 INFO  time: compiled demo-test in 1.3s
